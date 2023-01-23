@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HOME</string>
+    <string name="Diskon_Hingga_50">DISKON NI 50%</string>
+    <string name="KlikDisini">Klik disini</string>
+    <string name="txtHoliday">LIBURAN</string>
+    <string name="BuatJanji">Buat Janji</string>
+    <string name="InfoDataBuatJanji">Informasi Data Buat Janji</string>
+</resources>
